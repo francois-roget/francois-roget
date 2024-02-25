@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a developer mainly on Js, Typescript, node and Java
+I am a developer mainly on Js, Typescript, node and Java.
+I am mainly working, teaching and writing about the React ecosystem.
 <!--
 **francois-roget/francois-roget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
