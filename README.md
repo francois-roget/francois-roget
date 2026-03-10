@@ -1,18 +1,21 @@
-### Hi there 👋
+### Hi, I'm François 👋
 
-I am a developer mainly on Js, Typescript, node and Java.  
-I am mainly working, teaching and writing about the React ecosystem.
-<!--
-**francois-roget/francois-roget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Senior Frontend Developer — currently on mission at **Keytrade Bank**.
+I build, teach and write about the **JavaScript / TypeScript** ecosystem, with a focus on React.
 
-Here are some ideas to get you started:
+- 🚀 Building [**Paniers**](https://www.paniers.app) — a mobile app for grocery shopping
+- ✍️ I write about React, TypeScript and the JS ecosystem on [Medium](https://francois-roget.medium.com/)
+- 🌐 More about me at [roget-concept.be](https://www.roget-concept.be/)
+- 💬 Ask me about React, Next.js, TypeScript, Node.js
+- 📫 [LinkedIn](https://www.linkedin.com/in/francoisroget/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
